@@ -38,11 +38,6 @@ points if the ball passes your paddle.
 * Implementation in python Deep Q_Learning algorithms based on the Pong-v4 environment.
 * Report contain comparison between Q-Learning and Deep Q-Learning in terms of accuracy and conversion time.
 ###############################################################################################################
-############################################## NAMES AND IDS ##################################################
-1- Abdelrahman Mahmoud Alsayed -> 20190732
-2- Yousef Yasser Ezzat -> 20190652
-3- Omar Mohammed Abdelbary -> 20190358
-4- Belal Kamal Ashraf -> 20190137
 """
 #################################################### Imports ##################################################
 import time
